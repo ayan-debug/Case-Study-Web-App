@@ -1,0 +1,20 @@
+body
+{
+    font-family: 'Special Elite', cursive;
+    background: #f5dbda;
+}
+
+.photo_image
+{
+    width: 650px;
+    height: 700px;
+    border-radius: 50px;
+}
+
+.bob3
+{
+    border: 2px solid white;
+    width: 310px;
+    height: 100px;
+    box-shadow: 5px 5px 18px white;
+}
